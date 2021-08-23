@@ -1,1 +1,1 @@
-alert ("Hola Platzi!")
+alert ("Recuerda que te amo")
