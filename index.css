@@ -10,6 +10,7 @@ h1 {
     font-style: regular;
     font-family: 'Bebas Neue';
     justify-content: center;
+    text-shadow: black 4px 3px 0px;
 }
 
 h2 {
@@ -30,7 +31,15 @@ nav {
     justify-content: space-evenly;
     flex-direction: row;
     background-color: black;
+    padding: 15px;
     font-family: Roboto;
     font-size: 20px;
+    border-width: 5px 0px 5px 0px;
+}
+
+a{
     color: #FFDE00;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration-line: none;
 }
