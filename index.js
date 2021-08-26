@@ -1,1 +1,1 @@
-alert ("Recuerda que te amo")
+alert ("esto es una prueba")
